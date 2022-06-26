@@ -1,3 +1,8 @@
+## Dev specific
+.vscode
+.idea
+
+## Cuda
 *.i
 *.ii
 *.gpu
